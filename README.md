@@ -1,6 +1,8 @@
 # SIM-UOW-CS
 SIM UOW computer science cybersecurity + digital systems security
 
+> Please contribute to this repo! I actively review pull requests
+
 
 * 3 months = 1 sem
 * 1 sem = 2 modules
